@@ -1,0 +1,34 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Recursos Humanos",
+            "acronym": "RH"
+        },
+        {
+            "id": 2,
+            "name": "Tecnologia da Informação",
+            "acronym": "TI"
+        },
+        {
+            "id": 3,
+            "name": "Financeiro & Controladoria",
+            "acronym": "FIN"
+        },
+        {
+            "id": 4,
+            "name": "Marketing & Comunicação",
+            "acronym": "MKT"
+        },
+        {
+            "id": 5,
+            "name": "Vendas & Comercial",
+            "acronym": "VEN"
+        },
+        {
+            "id": 6,
+            "name": "Operações e Logística",
+            "acronym": "OP"
+        }
+    ]
+}   
